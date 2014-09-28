@@ -4,3 +4,4 @@
 4. http://andrew.gibiansky.com/blog/machine-learning/hessian-free-optimization/
 5. https://github.com/doomie/HessianFree
 6. https://github.com/boulanni/theano-hf
+7. http://metaoptimize.com/qa/tags/hessian-free/
