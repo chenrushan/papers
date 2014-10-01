@@ -5,3 +5,4 @@
 5. https://github.com/doomie/HessianFree
 6. https://github.com/boulanni/theano-hf
 7. http://metaoptimize.com/qa/tags/hessian-free/
+8. [Gauss-Newton Method](http://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm)
